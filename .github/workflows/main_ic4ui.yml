@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'ic4ui'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FFFDAE1A6276456B9C1AE70F04E497FC }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2BF66087F790466DB25CD3B2E1121DF5 }}
           package: .
